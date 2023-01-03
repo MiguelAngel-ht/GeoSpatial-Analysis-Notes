@@ -2,11 +2,11 @@
 
 Here you going to find notes about geopandas library, learn how read data and plot interesting things in a geographic map.
 
-**Every Section have a Notebook and a Code.py files in Python.**
+**Every Section have a Notebook, Code.py and solved Exercises in Python.**
 
 Course from: [kaggle.com](https://www.kaggle.com/code/alexisbcook/your-first-map/tutorial)
 
-#Important
+## Important
 
 If the notebook is incomplete in Github, then open it in Colab :)
 
