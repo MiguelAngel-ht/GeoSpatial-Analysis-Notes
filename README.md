@@ -12,4 +12,5 @@ Course from: [kaggle.com](https://www.kaggle.com/code/alexisbcook/your-first-map
 ## [2 - CRF](https://github.com/MiguelAngel-ht/GeoSpatial-Analysis-Notes/blob/main/02-Coordinate-Reference-Systems/Notebook.ipynb)
 ## [3 - Interactive Maps](https://github.com/MiguelAngel-ht/GeoSpatial-Analysis-Notes/blob/main/03-Interactive-Maps/Notebook.ipynb)
 ## [4 - Manipulating Geospatial Data](https://github.com/MiguelAngel-ht/GeoSpatial-Analysis-Notes/blob/main/04-Manipulating-Geospatial-Data/Notebook.ipynb)
+## [5- Proximity Analysis](https://github.com/MiguelAngel-ht/GeoSpatial-Analysis-Notes/blob/main/05-Proximity-Analysis/Notebook.ipynb)
 
